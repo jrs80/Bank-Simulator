@@ -1,0 +1,8 @@
+C:\Git_Repos\BankEncapsulation\BankEncapsulation\obj\Debug\BankEncapsulation.csproj.AssemblyReference.cache
+C:\Git_Repos\BankEncapsulation\BankEncapsulation\obj\Debug\BankEncapsulation.csproj.SuggestedBindingRedirects.cache
+C:\Git_Repos\BankEncapsulation\BankEncapsulation\obj\Debug\BankEncapsulation.csproj.CoreCompileInputs.cache
+C:\Git_Repos\BankEncapsulation\BankEncapsulation\bin\Debug\BankEncapsulation.exe.config
+C:\Git_Repos\BankEncapsulation\BankEncapsulation\bin\Debug\BankEncapsulation.exe
+C:\Git_Repos\BankEncapsulation\BankEncapsulation\bin\Debug\BankEncapsulation.pdb
+C:\Git_Repos\BankEncapsulation\BankEncapsulation\obj\Debug\BankEncapsulation.exe
+C:\Git_Repos\BankEncapsulation\BankEncapsulation\obj\Debug\BankEncapsulation.pdb
